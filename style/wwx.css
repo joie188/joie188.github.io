@@ -314,7 +314,7 @@ hr {
     font-size: 0px; }
   .tile.tile-2 .tile-inner {
     background: none repeat scroll 0% 0% rgba(238, 228, 218, 0.35);
-    background-image: url('../img/lwj/2.jpg');
+    background-image: url('../img/wwx/2.png');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
@@ -322,7 +322,7 @@ hr {
  }
   .tile.tile-4 .tile-inner {
     background: none repeat scroll 0% 0% rgba(238, 228, 218, 0.35);
-    background-image: url('../img/lwj/4.jpg');
+    background-image: url('../img/wwx/4.png');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
@@ -330,35 +330,35 @@ hr {
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
     background: none repeat scroll 0% 0% rgba(238, 228, 218, 0.35);
-    background-image: url('../img/lwj/8.jpg');
+    background-image: url('../img/wwx/8.png');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;}
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
     background: none repeat scroll 0% 0% rgba(238, 228, 218, 0.35);
-    background-image: url('../img/lwj/16.jpg');
+    background-image: url('../img/wwx/16.png');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;}
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
     background: none repeat scroll 0% 0% rgba(238, 228, 218, 0.35);
-    background-image: url('../img/lwj/32.jpg');
+    background-image: url('../img/wwx/32.png');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;}
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
     background: none repeat scroll 0% 0% rgba(238, 228, 218, 0.35);
-    background-image: url('../img/lwj/64.jpg');
+    background-image: url('../img/wwx/64.png');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain; }
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
     background: none repeat scroll 0% 0% rgba(238, 228, 218, 0.35);
-    background-image: url('../img/lwj/128.jpg');
+    background-image: url('../img/wwx/128.png');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
@@ -370,7 +370,7 @@ hr {
   .tile.tile-256 .tile-inner {
     color: #f9f6f2;
     background: none repeat scroll 0% 0% rgba(238, 228, 218, 0.35);
-    background-image: url('../img/lwj/256.jpg');
+    background-image: url('../img/wwx/256.png');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
@@ -382,7 +382,7 @@ hr {
   .tile.tile-512 .tile-inner {
     color: #f9f6f2;
     background: none repeat scroll 0% 0% rgba(238, 228, 218, 0.35);
-    background-image: url('../img/lwj/512.jpg');
+    background-image: url('../img/wwx/512.png');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
@@ -394,7 +394,7 @@ hr {
   .tile.tile-1024 .tile-inner {
     color: #f9f6f2;
     background: none repeat scroll 0% 0% rgba(238, 228, 218, 0.35);
-    background-image: url('../img/lwj/1024.jpg');
+    background-image: url('../img/wwx/1024.png');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
@@ -406,7 +406,7 @@ hr {
   .tile.tile-2048 .tile-inner {
     color: #f9f6f2;
     background: none repeat scroll 0% 0% rgba(238, 228, 218, 0.35);
-    background-image: url('../img/lwj/2048.jpg');
+    background-image: url('../img/wwx/2048.png');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
@@ -415,16 +415,16 @@ hr {
   .tile.tile-4096 .tile-inner {
       color: #f9f6f2;
       background: none repeat scroll 0% 0% rgba(238, 228, 218, 0.35);
-      background-image: url('../img/lwj/4096.jpg');
+      background-image: url('../img/wwx/4096.png');
       background-repeat: no-repeat;
       background-position: center center;
       background-size: contain;
       box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
       font-size: 0px; }
-  .tile.tile-8192 .tile-inner {
+    .tile.tile-8192 .tile-inner {
         color: #f9f6f2;
         background: none repeat scroll 0% 0% rgba(238, 228, 218, 0.35);
-        background-image: url('../img/lwj/8192.jpg');
+        background-image: url('../img/wwx/8192.png');
         background-repeat: no-repeat;
         background-position: center center;
         background-size: contain;
@@ -433,7 +433,7 @@ hr {
   .tile.tile-16384 .tile-inner {
           color: #f9f6f2;
           background: none repeat scroll 0% 0% rgba(238, 228, 218, 0.35);
-          background-image: url('../img/lwj/16384.jpg');
+          background-image: url('../img/wwx/16384.png');
           background-repeat: no-repeat;
           background-position: center center;
           background-size: contain;
